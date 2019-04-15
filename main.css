@@ -109,44 +109,48 @@ footer li img {
   font-size:50px
     font-weight:500;
     color: blue;
-  justify-content: center;
+  text-align: center;
 }
 
 #secondFav{
   font-size: 40px;
   font-weight: 351;
     color: green;
-  justify-content: center;
+  text-align: center;
 }
 #thirdFav{
   font-size: 34px;
      font-weight: 340;
     color: brown;
-  justify-content: center;
+  text-align: center;
 }
 #fourthFav{
   font-size: 35px;
      font-weight: 350;
     color: pink;
-  justify-content: center;
+  text-align: center;
 
 }
 #Q1{
   font-size: 40px;
  font-family: Georgia, serif;
     color: green;
+    
 }
 #Q2{
   ont-size: 34px;
      font-family: serif;
     color: brown;
+   
 }
 #Q3{
   font-size: 35px;
      font-family: Palatino;
     color: pink;
+   
 }
 #quotes{
   justify-content: center;
-  font-weight: bold
+  font-weight: bold;
+  text-align: center;
 }
